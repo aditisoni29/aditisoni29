@@ -1,14 +1,14 @@
 # 💫 About Me:
 👋 Hi! I'm **Aditi Soni**, passionate about building innovative, user-centered digital products.
 
-🌱 I love working on AI, Frontend Development, and Graphic Design.  
+🌱 I love working on AI, Web Development, and Graphic Design.  
 🎓 B.Tech in Computer Science and Engineering from Manipal University Jaipur.  
 💬 Ask me about UI/UX design, JavaScript, Python, or how to start building your own product!
 
 ---
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/aditisoni29)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhi._.tea)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-aditi-soni/)
 
 ---
@@ -46,9 +46,17 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-hazel-psi-25.vercel.app/api?username=aditisoni29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-hazel-psi-25.vercel.app/api/top-langs/?username=aditisoni29&theme=radical&hide_border=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aditisoni29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=aditisoni29&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aditisoni29&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditisoni29&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
