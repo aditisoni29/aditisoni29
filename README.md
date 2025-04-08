@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm **Aditi Soni**, Founder and CEO of [AppOrigo](https://www.linkedin.com/company/apporigo/), passionate about building innovative, user-centered digital products.
+👋 Hi! I'm **Aditi Soni**, passionate about building innovative, user-centered digital products.
 
 🌱 I love working on AI, Frontend Development, and Graphic Design.  
 🎓 B.Tech in Computer Science and Engineering from Manipal University Jaipur.  
@@ -14,9 +14,6 @@
 ---
 
 # 💼 Experience & Projects:
-
-### 🔹 **Founder & CEO at AppOrigo**
-- Driving the development of next-gen apps and managing strategic business operations.
 
 ### 🔹 **GPTEcho**
 - Real-time AI chatbot using OpenAI's GPT and Meta’s Llama3.  
