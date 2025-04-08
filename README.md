@@ -35,6 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
@@ -46,10 +47,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditisoni29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditisoni29&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats-hazel-psi-25.vercel.app/api?username=aditisoni29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-hazel-psi-25.vercel.app/api/top-langs/?username=aditisoni29&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 # ✍️ Quote
-_"The best way to predict the future is to invent it." – Alan Kay_
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
